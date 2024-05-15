@@ -22,23 +22,25 @@ const Contact = () => {
           <a href="https://www.google.com" target="_blank" className="items">
             <CiFacebook className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://www.linkedin.com/in/saikrushnagoli/" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
           <a href="https://www.google.com" target="_blank" className="items">
             <FaSquareXTwitter className="icons" />
           </a>
-          <a href="https://www.github.com" target="_blank" className="items">
+          <a href="https://github.com/GOLISAIKRUSHNA" target="_blank" className="items">
             <FaGithubSquare className="icons" />
           </a>
           <a
-            href="mailto:webdevmastery@gmail.com"
+            href="mailto:golisaikrushna@gmail.com"
             target="_blank"
             className="items"
           >
             <SiGmail className="icons" />
           </a>
         </div>
+
+       <center><div className="last">&#128509;&#128509;******Made By Saikrushna*****&#128509;&#128509;</div></center>
       </div>
     </>
   );

@@ -1,3 +1,7 @@
 {
-    "imgSrc":"hero/hero.avif"
+    "imgSrc":"hero/hero.avif",
+    "imgSrc1":"hero/sai.png" ,
+    "imgSrc2":"hero/sai-modified.png"
+
+   
 }

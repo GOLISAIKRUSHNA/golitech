@@ -73,9 +73,9 @@ a {
 
 @keyframes superman {
   0% {
-    border-color: blue;
+    border-color: palegreen;
     transform: translate(0, 0px);
-    box-shadow: 10px 10px 100px 50px blue;
+    box-shadow: 10px 10px 100px 50px palegreen;
   }
 
   25% {
@@ -84,20 +84,20 @@ a {
   }
 
   50% {
-    border-color: rgb(12, 12, 199);
+    border-color: rgb(12, 199, 168);
     transform: translate(0, 10px);
-    box-shadow: 10px 10px 100px 50px rgb(12, 12, 199);
+    box-shadow: 10px 10px 100px 50px rgb(12, 199, 168);
   }
 
   75% {
-    border-color: rgb(130, 217, 160);
-    box-shadow: 10px 10px 100px 50px rgb(130, 217, 160);
+    border-color: rgb(8, 233, 86);
+    box-shadow: 10px 10px 100px 50px rgb(8, 233, 86);
   }
 
   100% {
-    border-color: rgb(50, 55, 205);
+    border-color: lightgray;
     transform: translate(0, -0px);
-    box-shadow: 10px 10px 100px 50px rgb(50, 55, 205);
+    box-shadow: 10px 10px 100px 50px lightgray;
   }
 }
 
@@ -179,4 +179,10 @@ a {
 
 .contact-icon .items .icons {
   font-size: 2rem;
+}
+
+
+.last{
+  color: rgb(87, 81, 81);
+  font-size: 50px;
 }
