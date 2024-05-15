@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/bg-python.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Aws",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Sql",
+    "imageSrc": "skills/sql3-bg.png"
+  }
+ 
+]

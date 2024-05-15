@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Python Developer",
+    "organisation": "Oasis infobyte",
+    "startDate": "Dec 2023 -",
+    "endDate": "Jan 2024,",
+    "location": "Mumbai",
+    "experiences": [
+      "Worked on 3 projects include Api integration,Web Application and Backend Logic",
+      "Critical thinking in Problem Solving "
+    ],
+    "imageSrc": "company/Oasis.jpeg"
+  },
+  {
+    "id": 2,
+    "role": "Web Developer",
+    "organisation": "The Spark Foundation",
+    "startDate": "Aug 2022-",
+    "endDate": "Sept 2022,",
+    "location": "Mumbai",
+    "experiences": [
+      "Worked on UI interface to ensure smoothness",
+      "Worked on projects based on Stakeholder's customizability"
+    ],
+    "imageSrc": "company/spark.jpeg"
+  }
+]
