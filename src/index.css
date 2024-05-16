@@ -185,4 +185,6 @@ a {
 .last{
   color: rgb(87, 81, 81);
   font-size: 50px;
+  background-color: whitesmoke;
+  border-radius: 10px;
 }

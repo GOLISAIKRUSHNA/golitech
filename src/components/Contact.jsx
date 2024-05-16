@@ -40,7 +40,7 @@ const Contact = () => {
           </a>
         </div>
 
-       <center><div className="last">&#128509;&#128509;******Made By Saikrushna*****&#128509;&#128509;</div></center>
+       <center><div className="last">&#128509;&#128509;******Made by Saikrushna Goli*****&#128509;&#128509;</div></center>
       </div>
     </>
   );
