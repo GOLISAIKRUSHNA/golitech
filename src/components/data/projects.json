@@ -2,7 +2,7 @@
   {
     "key": 1,
     "title": "Learn to Code",  
-    "imageSrc": "/public/assets/skills/bootstrap.png",
+    "imageSrc": "/public/assets/bootstrap.png",
     "description": "This is a project made with complete Html, Css, Bootstrap.",
     "demo": "https://saikrushna-bootstrap.netlify.app/",
     "source": " https://github.com/GOLISAIKRUSHNA"
@@ -10,7 +10,7 @@
   {
     "key": 2,
     "title": "Weather App",
-    "imageSrc": "/public/assets/skills/weather.png",
+    "imageSrc": "/public/assets/weather.png",
     "description": "This is a project made with complete Html, Css, Javascript and Api integration.",
     "demo": "https://saikrushna-weather.netlify.app/",
     "source": "https://github.com/GOLISAIKRUSHNA"
@@ -18,7 +18,7 @@
   {
     "key": 3,
     "title": "Calculator",
-    "imageSrc": "/public/assets/skills/cal.png",
+    "imageSrc": "/public/assets/cal.png",
     "description": "This is a project made with complete Html, Css, Javascript.",
     "demo": "https://saikrushna-calculator.netlify.app/",
     "source": "https://github.com/GOLISAIKRUSHNA"
